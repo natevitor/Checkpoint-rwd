@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fundo_cabecalho{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(99, 99, 235);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap_cabecalho{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img_cabecalho{
+    width: 5%;
+}
+
+.links_cabecalho > a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: chartreuse;
+    
+}  
