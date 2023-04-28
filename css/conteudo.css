@@ -1,0 +1,34 @@
+.conteudo{
+    /* background-color: aqua; */
+    width: 90%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.titulo_conteudo{
+    text-transform: uppercase;
+    color: brown;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.txt_conteudo{
+    text-transform: uppercase;
+    color: black;
+    font-size: 10px;
+}
+
+.txt_titulo{
+    width: 60%;
+}
+
+.figure{
+    width: 40%;
+}
+
+.img_conteudo{
+    width: 100%;
+}
