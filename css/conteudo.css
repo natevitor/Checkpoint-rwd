@@ -10,14 +10,14 @@
 
 .titulo_conteudo{
     text-transform: uppercase;
-    color: brown;
+    color: white;
     font-size: 25px;
     padding-bottom: 10px;
 }
 
 .txt_conteudo{
     text-transform: uppercase;
-    color: black;
+    color: white;
     font-size: 10px;
 }
 
